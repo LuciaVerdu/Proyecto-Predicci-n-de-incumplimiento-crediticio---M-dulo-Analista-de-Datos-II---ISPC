@@ -1,0 +1,19 @@
+# Datasets pesados / con licencia de Kaggle - no se suben al repo
+application_train.csv
+application_test.csv
+sample_submission.csv
+*.zip
+
+# El diccionario de columnas SÍ se sube
+HomeCredit_columns_description.csv
+
+# Archivos temporales de Jupyter/Colab
+.ipynb_checkpoints/
+
+# Archivos de Python compilados 
+__pycache__/
+*.pyc
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
